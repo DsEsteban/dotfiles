@@ -1,0 +1,6 @@
+# ignoring everything...
+*
+
+# ...but...
+!.gitignore
+!.vimrc 
